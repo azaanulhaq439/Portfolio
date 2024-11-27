@@ -324,6 +324,7 @@ span{
     background: var(--bg-color);
     padding: 50px 20px;
     text-align: center;
+    min-height: 490px;
     
 }
 
@@ -336,7 +337,7 @@ span{
 /* Internship Item Styling */
 .internship-item {
     background: var(--snd-bg-color);
-    margin: 20px;
+    margin: 60px;
     float: left;
     padding: 20px;
     max-width: 600px;
@@ -348,14 +349,14 @@ span{
 /* Title Styling */
 .internship-item h3 {
     color: var(--main-color);
-    font-size: 1.8rem;
+    font-size: 2rem;
     margin-bottom: 10px;
     transition: color 0.3s ease; /* Transition for title color */
 }
 
 /* Paragraph Styling */
 .internship-item p {
-    font-size: 1.2rem;
+    font-size: 1.6rem;
 }
 
 /* Hover Effects */
